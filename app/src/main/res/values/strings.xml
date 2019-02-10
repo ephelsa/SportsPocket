@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sports Pocket</string>
+    <string name="skills_test"><b>Skills Test</b></string>
+    <string name="created_by"><b>Created by</b> Leonardo A. Perez Castilla</string>
+    <string name="leagues">Leagues</string>
+    <string name="teams">Teams</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="founded"><b>Founded: </b></string>
+    <string name="title_activity_league">LeagueActivity</string>
+    <string name="next_five_events"><u>See next 5 events</u></string>
+    <string name="not_yet_defined">Not yet defined</string>
+    <string name="social_media">Social Media:</string>
+
+</resources>
